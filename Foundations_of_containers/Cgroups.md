@@ -1,1 +1,1 @@
-Cgroups control and limit how much CPU, memory, disk I/O, and network bandwidth a container can use. This prevents one container from consuming all system resources and affecting others
+- Cgroups control and limit how much CPU, memory, disk I/O, and network bandwidth a container can use. This prevents one container from consuming all system resources and affecting others
