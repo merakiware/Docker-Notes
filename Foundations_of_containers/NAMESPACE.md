@@ -1,1 +1,2 @@
-- Docker containers create isolated environments with their own Process ID (PID) namespace, making each container think it's the only process running on the system. This isolation is key to container security and resource management.
+- Docker containers create isolated environments with their own Process ID (PID) namespace, making each container think it's the only process running on the system.
+- This isolation is key to container security and resource management.
