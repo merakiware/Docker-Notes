@@ -1,0 +1,1 @@
+- iptables is a rule-based system that examines every network packet flowing through a Linux system and decides whether to allow, block, or redirect traffic
